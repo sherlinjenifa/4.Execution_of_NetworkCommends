@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-
+```
 Microsoft Windows [Version 10.0.26200.8246]
 (c) Microsoft Corporation. All rights reserved.
 
@@ -380,6 +380,7 @@ User profiles
     All User Profile     : ASHWIN ROSHAN
     All User Profile     : OnePlus 11R 5G
     All User Profile     : CODING TEST 9
+```
 
 ## Result
 Thus Execution of Network commands Performed 
